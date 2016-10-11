@@ -1,1 +1,2 @@
-Status Code: 304
+Status Code: 200
+
