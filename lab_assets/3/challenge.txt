@@ -1,1 +1,1 @@
-Location:https://paypal.com/
+Certificate Authority: Symantec Class 3 EV SSL CA - G3
