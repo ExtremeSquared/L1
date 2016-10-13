@@ -1,2 +1,1 @@
-Status Code: 307
-
+Location:https://paypal.com/
