@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<contact>
+<contact id="1" exportDate="05-10-2014">
 
     <first_name>John</first_name>
     <last_name>Doe</last_name>
-
-        <addresses>
-            <address>
-               <city>Turt</city>
-               <state>TH</state>
-               <zip>4</zip>
-            </address>
-            <address>
-                <city>Purt</city>
-                <state>EH</state>
-                <zip>94546</zip>
-            </address>
-        </addresses>
-    <emails>
-        <email>u@p.fo</email>
-        <email>r@3.5</email>
-        <email>q@l.h</email>
-        <email>ppp@io.pi</email>
-    </emails>
+    <email>johndoe@lifecycleskills.com</email>
+    
 </contact>
