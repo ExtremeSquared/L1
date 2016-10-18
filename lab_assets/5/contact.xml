@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <contact>
-  <first_name></first_name>
-  <last_name></last_name>
-  <address>
-      <city></city>
-      <state></state>
-      <zip></zip>
-  </address>
-  
+    <assigned_salesperson>
+        <first_name>
+            
+        </first_name>
+        <last_name>Smith</last_name>
+    </assigned_salesperson>
 </contact>
+
