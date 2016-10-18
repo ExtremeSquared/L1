@@ -5,25 +5,22 @@
     <first_name>John</first_name>
     <last_name>Doe</last_name>
 
-    <addresses>
-    
-        <address>
-            <city>Arlington</city>
-            <state>VA</state>
-            <zip>22201</zip>
-        </address>
-        <address>
-            <city>Tucson</city>
-            <state>AZ</state>
-            <zip>85701</zip>
-        </address>
-    
-    </addresses>
-    
+        <addresses>
+            <address>
+               <city>Turt</city>
+               <state>TH</state>
+               <zip>4</zip>
+            </address>
+            <address>
+                <city>Purt</city>
+                <state>EH</state>
+                <zip>94546</zip>
+            </address>
+        </addresses>
     <emails>
-        <email>johndoework1@lifecycleskilss.com</email>
-        <email>johndoework2@lifecycleskilss.com</email>
-        <email>johndoehome1@lifecycleskilss.com</email>
-        <email>johndoejunk1@lifecycleskilss.com</email>
+        <email>u@p.fo</email>
+        <email>r@3.5</email>
+        <email>q@l.h</email>
+        <email>ppp@io.pi</email>
     </emails>
 </contact>
