@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
 
-<contact>
-  <first_name>John</first_name>
-  <last_name>Doe</last_name>
-  <address>
-      <city>Phoenix</city>
-      <state>AZ</state>
-      <zip>85044</zip>
-  </address>
-  SAMPLE
-</contact>
+
+John
+Doe
+
+Phoenix
+AZ
+85044
+
+
+
+ 
