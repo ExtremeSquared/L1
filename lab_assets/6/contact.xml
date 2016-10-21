@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contact
     xmlns="http://namespaces.lifecycleskills.com/CRM2015"
+    xmlns:crm2016="http://namespaces.lifecycleskills.com/CRM2016"
     >
-    
-    <first_name>John</first_name>
-    <last_name>Doe</last_name>
-
     
     <address>
         <line_1>1234 East St.</line_1>
@@ -15,5 +12,14 @@
         <city>Phoenix</city>
         <state>AZ</state>
     </address>
+    <crm2016:address>
+        <line_1>1234 East St.</line_1>
+        <unit_type>Studio</unit_type>
+        <unit_number>#4</unit_number>
+        <zip>85044</zip>
+        <city>Phoenix</city>
+        <state>AZ</state>
+        <country_code>1</country_code>
+    </crm2016:address>
     
 </contact>
