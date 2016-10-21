@@ -1,34 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <user>
-
     <firstName>John</firstName>
     <lastName>Doe</lastName>
-
     <contactAttempts>
-
-        <contactAttempt>
-            <date>06-10-2014</date>
-            <time>13:45</time>
-            <method>Phone</method>
-        </contactAttempt>
-
-        <contactAttempt>
-            <date>07-12-2014</date>
-            <time>15:30</time>
-            <method>Email</method>
-        </contactAttempt>
-
-        <contactAttempt>
-            <date>07-15-2014</date>
-            <time>15:30</time>
-            <method>Phone</method>
-        </contactAttempt>
+        <contactAttempt><date>06-10-2014</date><time>13:45</time><method>Phone</method></contactAttempt>
+        <contactAttempt><date>07-12-2014</date><time>15:30</time><method>Email</method></contactAttempt>
+        <contactAttempt><date>07-15-2014</date><time>15:30</time><method>Phone</method></contactAttempt>
     </contactAttempts>
-    
     <notes>
-        The last contact with Mr Doe was productive. We fixed the 
-        issues he was having with his engineering workbook.
+        The last contact with Mr Doe was productive. We fixed the issues he was having with his engineering workbook.
     </notes>
-
 </user>
