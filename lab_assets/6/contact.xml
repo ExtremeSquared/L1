@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<contact id="1" exportDate="05-10-2014">
+<contact id="15">
 
     <first_name>John</first_name>
     <last_name>Doe</last_name>
     <email>johndoe@lifecycleskills.com</email>
+    <addresses>
     
+        <address type='business'>
+            <line_one>1234 Industrial Park Way</line_one>
+            <city>Mesa</city>
+            <state>AZ</state>
+        </address>
+        
+        <address type='residential'>
+            <line_one>4321 Residential Ave.</line_one>
+            <city>Phoenix</city>
+            <state>AZ</state>
+        </address>
+        
+        <address type='billing'>
+            <line_one>1234 Corporate Headquarters</line_one>
+            <city>Seattle</city>
+            <state>Wa</state>
+        </address>
+        
+        
+    </addresses>
 </contact>
