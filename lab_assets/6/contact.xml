@@ -1,30 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<contact id="15">
-
+<?xml version="1.0" encoding="utf-8"?>
+<contact
+    xmlns="http://namespaces.lifecycleskills.com/CRM2015"
+    >
+    
     <first_name>John</first_name>
     <last_name>Doe</last_name>
-    <email>johndoe@lifecycleskills.com</email>
-    <addresses>
+
     
-        <address type='business'>
-            <line_one>1234 Industrial Park Way</line_one>
-            <city>Mesa</city>
-            <state>AZ</state>
-        </address>
-        
-        <address type='residential'>
-            <line_one>4321 Residential Ave.</line_one>
-            <city>Phoenix</city>
-            <state>AZ</state>
-        </address>
-        
-        <address type='billing'>
-            <line_one>1234 Corporate Headquarters</line_one>
-            <city>Seattle</city>
-            <state>Wa</state>
-        </address>
-        
-        
-    </addresses>
+    <address>
+        <line_1>1234 East St.</line_1>
+        <unit_type>Studio</unit_type>
+        <unit_number>#4</unit_number>
+        <zip>85044</zip>
+        <city>Phoenix</city>
+        <state>AZ</state>
+    </address>
+    
 </contact>
