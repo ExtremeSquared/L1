@@ -23,7 +23,7 @@
             <longitude>-125.903320</longitude>
         </gps-coordinate>
     </gps-coordinates>
-    <region>Western USA</region> # Coninental USA
+    <region>Western USA</region>  <!-- Coninental USA -->
     <time-zone>PST</time-zone>
     <sales-rep>
         <first-name>John</first-name>
