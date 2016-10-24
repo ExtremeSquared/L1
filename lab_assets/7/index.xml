@@ -1,8 +1,14 @@
 <!DOCTYPE html>
+<!--
+    Test HTML file
+-->
+
 <html>
     <body>
 
-        <h1>My First Header</h1>
+        <h1>
+            My First Header
+        </h1>
         <p
         id="first-paragraph"
         class="bold"
