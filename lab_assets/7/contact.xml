@@ -1,30 +1,33 @@
  <?xml version="1.0" encoding="UTF-8"?>
 
 <contact 
-    xmlns="http://namespaces.lifecycleskills.com/2015" 
+    xmlns="http://namespaces.lifecycleskills.com/2015"
     imported="true"
     >
     
-    <contact 
+    <contact
         id="15"
         >
-    <first_name>John</first_name> 
-    <last_name>Doe</last_name>
+    <first_name>
+        John
+    </first_name> 
+    <last_name>
+        Doe
+    </last_name>
  
-    <emails 
-        preferred="23" 
+    <emails
+        preferred="23"
         createdAt="UNKNOWN"
         > 
     
-        <email 
-            id="23"
-            >
+       <email 
+        id="23"
+        >
             personal@lifecycleskills.com
         </email>
-        
-        <email 
-            id="24"
-            >
+       <email
+        id="24"
+        >
             work@lifecycleskills.com
         </email>
 
