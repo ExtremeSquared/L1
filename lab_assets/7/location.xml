@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Created: 24-10-2016
+    Details: Cool
+-->
+
 <location>
     <gps-coordinates>
         <gps-coordinate>
@@ -18,7 +23,7 @@
             <longitude>-125.903320</longitude>
         </gps-coordinate>
     </gps-coordinates>
-    <region>Western USA</region>
+    <region>Western USA</region> # Coninental USA
     <time-zone>PST</time-zone>
     <sales-rep>
         <first-name>John</first-name>
