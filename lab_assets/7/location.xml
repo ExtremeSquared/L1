@@ -1,32 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <!--
     Created: 24-10-2016
     Details: Cool
 -->
 
 <location>
+
     <gps-coordinates>
+    
         <gps-coordinate>
+        
             <latitude>48.820428</latitude>
             <longitude>-125.903320</longitude>
+            
         </gps-coordinate>
+        
         <gps-coordinate>
+        
             <latitude>48.755736</latitude>
             <longitude>-116.213379</longitude>
+            
         </gps-coordinate>
+        
         <gps-coordinate>
+        
             <latitude>21.825489</latitude>
             <longitude>-116.213379</longitude>
+            
         </gps-coordinate>
+        
         <gps-coordinate>
+        
             <latitude>21.825489</latitude>
             <longitude>-125.903320</longitude>
+            
         </gps-coordinate>
+        
     </gps-coordinates>
-    <region>Western USA</region>  <!-- Coninental USA -->
+    
+    <region>Western USA</region>  <!-- Continental USA -->
     <time-zone>PST</time-zone>
+    
     <sales-rep>
+    
         <first-name>John</first-name>
         <last-name>Doe</last-name>
+        
     </sales-rep>
+    
 </location>
