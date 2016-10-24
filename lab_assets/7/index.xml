@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html>
-<body>
+    <body>
 
-<h1>My First Header</h1>
-<p id="first-paragraph" class="bold">My first paragraph.</p>
+        <h1>My First Header</h1>
+        <p
+        id="first-paragraph"
+        class="bold"
+        >
+            My first paragraph.
+        </p>
 
-</body>
+    </body>
 </html>
